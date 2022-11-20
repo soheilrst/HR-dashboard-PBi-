@@ -6,4 +6,4 @@ Eine Power BI dashboard ,die Informationen über Human Resource Abteilung einem 
   3) wie lange sind die meistenst kollegen bei dem firma  ? 
   4) wie zufrieden sind die mitarbeitern?
   5) nach eine gewisse zeit,sind die mitarbeiter berechtigt für eine promotion.wie viel prozent der kollegen sind aktuell betroffen?
-  6) wie viel protzent der mitarbeiter sollen in Rente gehen?
+  6) wie viel protzent die mitarbeitern sollen in Rente gehen?(>=30 jahre)
