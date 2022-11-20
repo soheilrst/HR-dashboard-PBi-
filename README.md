@@ -1,4 +1,4 @@
-                                                          # HR-dashboard-PBi-
+                                                    # HR-dashboard-PBi-
 Eine Power BI dashboard ,die Informationen über Human Resource Abteilung einem Firma darstellt und folgende fragen beantwortet:
   
   1) Das gesamte eingestellte Anzahl von dem firma und aufteilung bezuglich auf geschlecht.
